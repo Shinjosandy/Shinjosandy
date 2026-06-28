@@ -207,7 +207,7 @@ strength   = lambda skill: "maximum" if skill in security else "strong"
 | 📧 Email     | [sandhyachandel83@gmail.com](mailto:sandhyachandel83@gmail.com) |
 | 💼 LinkedIn  | [sandhya-chandel](https://www.linkedin.com/in/sandhya-chandel/) |
 | 🐙 GitHub    | [@Shinjosandy](https://github.com/Shinjosandy)                  |
-| 🌐 Portfolio | [shinjosandy.github.io](https://shinjosandy.github.io)          |
+| 🌐 Portfolio | [shinjosandy.github.io](https://shinjosandy.github.io/)          |
 
 <br>
 
