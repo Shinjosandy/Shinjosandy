@@ -9,13 +9,13 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### `> Security Engineer & Backend Developer`
+### `> Cybersecurity Engineer • Backend Developer • AI/ML Enthusiast`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+Backend+Systems+%7C+Blockchain;VAPT+%7C+Penetration+Testing+%7C+Linux;Building+secure+systems+by+design...;JPMorgan+Hackathon+Winner+%F0%9F%8F%86;CGPA+9.74+%7C+Xavier+Institute+of+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Backend+Systems+%7C+Blockchain;VAPT+%7C+Penetration+Testing+%7C+TPM+2.0;BARC+Cybersecurity+Intern+%7C+AI%2FML+Intern;JPMorgan+Hackathon+Winner+%F0%9F%8F%86;CGPA+9.61+%7C+Xavier+Institute+of+Engineering)](https://git.io/typing-svg)
 
 [![](https://komarev.com/ghpvc/?username=Shinjosandy&color=00ff88&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Shinjosandy)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandhya--chandel-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sandhya-chandel-9b6413253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandhya--chandel-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sandhya-chandel/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-sandhyachandel83%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sandhyachandel83@gmail.com)
 &nbsp;
@@ -29,7 +29,7 @@
 
 ```yaml
 name: Sandhya Chandel
-role: Security Engineer & Backend Developer
+role: Cybersecurity Engineer | Backend Developer | AI/ML Intern
 location: Mumbai, India
 education: B.E. Computer Science — Xavier Institute of Engineering
 cgpa: 9.74 / 10.0
@@ -50,6 +50,41 @@ community: Women in CyberSecurity (WiCyS) — Member
 | 📊  | **9.74 CGPA** — Xavier Institute of Engineering, Mumbai |
 | 🛡️  | **WiCyS Member** — Women in CyberSecurity               |
 | 🔬  | Network VAPT Research in controlled lab environments    |
+
+---
+
+## `$ ls experience/`
+
+<details>
+<summary><b>🔐 Cybersecurity Intern — Bhabha Atomic Research Centre (BARC)</b> &nbsp;·&nbsp; <code>2026</code></summary>
+<br>
+
+Implemented a **TPM-based secure authentication and key management system** for trusted device authentication and cryptographic operations at one of India's premier nuclear research institutions.
+
+- 🔑 Designed TPM-based challenge-response authentication using RSA-2048 digital signatures
+- 🖥️ Developed a Flask authentication server on Rocky Linux with secure device registration and public key provisioning
+- 🔗 Integrated Windows TPM client with Linux backend across OS boundaries
+- 🔐 Implemented RSA signature verification using TPM-protected keys
+- 📁 Designed a hybrid AES-256 + TPM architecture for secure file encryption
+- ⚙️ Worked on cryptographic key lifecycle management and secure workflow design
+
+**Stack:** `Python` `Flask` `TPM 2.0` `RSA-2048` `AES-256` `SQLite` `Rocky Linux` `REST APIs`
+
+</details>
+
+<details>
+<summary><b>🤖 AI/ML Intern — Data Vidwan</b> &nbsp;·&nbsp; <code>2026</code></summary>
+<br>
+
+Built and evaluated machine learning pipelines — from raw data to deployable models.
+
+- 📊 Performed data preprocessing, feature engineering, and exploratory data analysis
+- 🧠 Built and optimised ML models using Scikit-learn
+- 🚀 Assisted in deploying AI/ML workflows to production environments
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Analysis`
+
+</details>
 
 ---
 
@@ -167,12 +202,12 @@ strength   = lambda skill: "maximum" if skill in security else "strong"
 
 <div align="center">
 
-| Channel      | Link                                                                                |
-| ------------ | ----------------------------------------------------------------------------------- |
-| 📧 Email     | [sandhyachandel83@gmail.com](mailto:sandhyachandel83@gmail.com)                     |
-| 💼 LinkedIn  | [sandhya-chandel-9b6413253](https://www.linkedin.com/in/sandhya-chandel-9b6413253/) |
-| 🐙 GitHub    | [@Shinjosandy](https://github.com/Shinjosandy)                                      |
-| 🌐 Portfolio | [shinjosandy.github.io](https://shinjosandy.github.io)                              |
+| Channel      | Link                                                            |
+| ------------ | --------------------------------------------------------------- |
+| 📧 Email     | [sandhyachandel83@gmail.com](mailto:sandhyachandel83@gmail.com) |
+| 💼 LinkedIn  | [sandhya-chandel](https://www.linkedin.com/in/sandhya-chandel/) |
+| 🐙 GitHub    | [@Shinjosandy](https://github.com/Shinjosandy)                  |
+| 🌐 Portfolio | [shinjosandy.github.io](https://shinjosandy.github.io)          |
 
 <br>
 
